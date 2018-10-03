@@ -1,5 +1,9 @@
 body {
   background-image: linear-gradient(to bottom right, red, blue);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
   color: white;
   font-family: sans-serif;
 }
